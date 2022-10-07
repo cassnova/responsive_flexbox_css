@@ -1,0 +1,25 @@
+.contenedor{
+    flex-direction: row;
+}
+.contenedor__subtitulo{
+    font-size: 2rem;
+}
+.contenedor__parrafo{
+    font-size: 1rem;
+}
+.contenedor__boton{
+    font-size: 1rem;
+    padding: 1rem 2.5rem;
+}
+.form{
+    width: 40%;
+}
+.form__titulo{
+    font-size: 2rem;
+}
+.form__parrafo{
+    font-size: 1rem;
+}
+.form__input{
+    font-size: 1rem;
+}

@@ -1,0 +1,27 @@
+.contenedor{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor__subtitulo{
+    font-size: 3.5rem;
+}
+.contenedor__parrafo{
+    font-size: 1.5rem;
+}
+.contenedor__boton{
+    font-size: 1.7rem;
+    padding: 1rem 2.5rem;
+}
+.form{
+    width: 80%;
+}
+.form__titulo{
+    font-size: 2.5rem;
+}
+.form__parrafo{
+    font-size: 1.5rem;
+}
+.form__input{
+    font-size: 1.5rem;
+}

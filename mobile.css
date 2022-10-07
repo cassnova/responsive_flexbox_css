@@ -1,0 +1,27 @@
+body{
+    height: 100vh;
+    
+}
+
+.contenedor {
+    flex-direction: column;
+    height: 100vh;
+    background: rgb(51,51,51,0.602);
+}
+.contenedor__titulo{
+    justify-content: center;
+}
+.form{
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+.form__titulo{
+    padding: 10px;
+}
+.form__input-color{
+    margin-top: 0;
+}
+.form__input{
+    border-bottom: solid thin #6B5AC9;
+}
